@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samja\\Documents\\Godot Games\\TileDrawSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA43452-450A-4ADC-BE9A-F7E27DD59D9F}|TileDrawSystem.csproj|c:\\users\\samja\\documents\\godot games\\tiledrawsystem\\drawtiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA43452-450A-4ADC-BE9A-F7E27DD59D9F}|TileDrawSystem.csproj|solutionrelative:drawtiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawTiles.cs",
+              "DocumentMoniker": "C:\\Users\\samja\\Documents\\Godot Games\\TileDrawSystem\\DrawTiles.cs",
+              "RelativeDocumentMoniker": "DrawTiles.cs",
+              "ToolTip": "C:\\Users\\samja\\Documents\\Godot Games\\TileDrawSystem\\DrawTiles.cs",
+              "RelativeToolTip": "DrawTiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:36:38.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

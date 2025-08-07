@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileDrawSystem", "TileDrawSystem.csproj", "{CDA43452-450A-4ADC-BE9A-F7E27DD59D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA43452-450A-4ADC-BE9A-F7E27DD59D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA43452-450A-4ADC-BE9A-F7E27DD59D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA43452-450A-4ADC-BE9A-F7E27DD59D9F}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{CDA43452-450A-4ADC-BE9A-F7E27DD59D9F}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{CDA43452-450A-4ADC-BE9A-F7E27DD59D9F}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{CDA43452-450A-4ADC-BE9A-F7E27DD59D9F}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
